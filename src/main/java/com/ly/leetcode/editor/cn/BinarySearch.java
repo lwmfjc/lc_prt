@@ -31,6 +31,7 @@
 package com.ly.leetcode.editor.cn;
 
 public class BinarySearch {
+    //测试git作者
     public static void main(String[] args) {
         Solution solution = new BinarySearch().new Solution();
 
